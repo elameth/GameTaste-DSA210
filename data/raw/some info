@@ -1,0 +1,18 @@
+Shape: (7045, 9)
+
+Columns:
+Index(['id', 'name', 'released', 'released_year', 'metacritic', 'rating',
+       'ratings_count', 'genres', 'tags'],
+      dtype='object')
+
+Missing values:
+id                 0
+name               0
+released          15
+released_year     15
+metacritic         0
+rating             0
+ratings_count      0
+genres            20
+tags             540
+dtype: int64
