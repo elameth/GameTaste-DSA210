@@ -1,7 +1,7 @@
 # scripts/export_my_ratings_template.py
 #
 # Reads your RAWG export CSV (elamethy.csv), drops only "Not played" rows
-# (keeps empty Status because you said it's bugged), resolves each game via RAWG API,
+# , resolves each game via RAWG API,
 # and writes a clean rating template: data/my_ratings_template.csv
 #
 # Output columns: id, name, status, my_rating_10
